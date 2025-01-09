@@ -21,7 +21,6 @@ A program for finding empty classrooms to study in at McGill. Using a command-li
   - Building hours
   - Access restrictions (some rooms such as labs may only be open to certain students)
   - Other activities scheduled outside of Minerva (e.g., meetings, events, and some exams) 
-- To work properly, its database must also be complete and up-to-date.
 
 ### Getting Started
 
