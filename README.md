@@ -61,11 +61,11 @@ Currently, I am including the database. However, if it's missing or out-of-date,
 2. Log in to Minerva and navigate the following menus: Student Menu -> Registration Menu -> Step 2: Search Class Schedule and Add Course Sections.
 3. Choose the current term and press "Advanced Search". You should be on the "Look Up Course Sections" page and see the following form: 
 
-<img src="advanced_search.png" style="zoom:50%;" />
+<img src="advanced_search.png" style="zoom:30%;" />
 
 4. Select the first faculty and press "Get Course Sections". Save the webpage as a .html file inside of the input folder. Continue to populate the input folder with a .html file for every faculty. In the end, your input folder should look something like this:
 
-<img src="input_files.png" style="zoom:50%;" />
+<img src="input_files.png" style="zoom:30%;" />
 
 5. Run the program and run the command, `build`. If all is good, the file "database.json" should be created or updated.
 
