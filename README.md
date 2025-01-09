@@ -16,7 +16,7 @@ A program for finding empty classrooms to study in at McGill.
 
 ### How It Works
 
-- The program builds a database from course registration data downloaded from Minerva, McGill University's website for managing course registration and other administrative data.
+- The program builds a database from course registration data downloaded from [Minerva](https://mcgill.service-now.com/itportal?id=kb_article_view&sysparm_article=KB0010779).
 - Room schedules and availabilities provided by the program only correspond to vacancies in the course registration schedule. Therefore, it does not account for things such as:
   - Building hours
   - Access restrictions (some rooms such as labs may only be open to certain students)
