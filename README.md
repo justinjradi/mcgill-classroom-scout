@@ -1,6 +1,6 @@
 # McGill Classroom Scout
 
-A program for finding empty classrooms to study in at McGill. 
+A program for finding empty classrooms to study in at McGill. Using a command-line interface, users can view the schedules of rooms and search for rooms without scheduled classes.
 
 ---
 
