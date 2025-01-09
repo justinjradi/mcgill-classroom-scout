@@ -20,7 +20,8 @@ A program for finding empty classrooms to study in at McGill. Using a command-li
 - Room schedules and availabilities provided by the program only correspond to vacancies in the course registration schedule. Therefore, it does not account for things such as:
   - Building hours
   - Access restrictions (some rooms such as labs may only be open to certain students)
-  - Other activities scheduled outside of Minerva (e.g., meetings, events, and some exams) 
+  - Other activities scheduled outside of Minerva (e.g., meetings, events, and some exams)
+- The database must also be properly built and up-to-date.
 
 ### Getting Started
 
