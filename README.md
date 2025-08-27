@@ -25,7 +25,7 @@ A program for finding empty classrooms to study in at McGill. Using a command-li
 
 ### Getting Started
 
-1. Install [Python 3](https://www.python.org/downloads/) and the [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) package if you haven't already.
+1. Install [Python 3](https://www.python.org/downloads/) and the [beautifulsoup4](https://pypi.org/project/beautifulsoup4/) package.
 2. Clone or download and unzip the repository.
 3. Confirm that "database.json" is included and up to date. If it isn't, you'll need to build the database yourself.
 4. Open the directory in which the program is located in your favorite terminal program and run the following command:
